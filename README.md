@@ -1,6 +1,8 @@
 # Springboot-openapi-application
 This spring boot v3 project explain the usage of openapi documentation (Swagger v3)
 
+### Swagger UI URL:
+> http://localhost:8282/swagger-ui/index.html
 
 ### Swagger 2 to Swagger 3 annotations
 Swagger 3 is an updated version of Swagger 2 and has some changes in annotations:
